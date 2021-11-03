@@ -14,13 +14,13 @@
 
 ## Accent colors
 
-<img src="./colors/E14680.svg" alt="Pink" width="100" height="100" />
+<img src="./colors/E14680.svg" alt="Pink" width="100" height="100" style="height: auto;" />
 
-<img src="./colors/551A8B.svg" alt="Purple" width="100" height="100" />
+<img src="./colors/551A8B.svg" alt="Purple" width="100" height="100" style="height: auto;" />
 
 ## Social header
 
-<img src="./social/Header.png" alt="Social" width="598" height="202" />
+<img src="./social/Header.png" alt="Social" width="598" height="202" style="height: auto;" />
 
 
 ## Contents
