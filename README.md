@@ -2,9 +2,17 @@
 
 ## Logo
 
-<img src="./logo/ParisJS-Squircle.svg" alt="ParisJS" width="100" height="100" />
-<img src="./logo/ParisJS-Circle.svg" alt="ParisJS" width="100" height="100" />
-<img src="./logo/ParisJS-Plain.svg" alt="ParisJS" width="100" height="100" />
+![ParisJS](./logo/ParisJS-Squircle.svg)
+
+![ParisJS](./logo/ParisJS-Circle.svg)
+
+![ParisJS](./logo/ParisJS-Plain.svg)
+
+## Logo large
+
+![ParisJS](./logo/ParisJSFullLength-Pink.svg)
+
+![ParisJS](./logo/ParisJS-FullLength-Transparent.svg)
 
 ## Favicon
 
@@ -20,7 +28,7 @@
 
 ## Social header
 
-<img src="./social/Header.png" alt="Social" width="598" height="202" />
+![Le meetup mensuel autour du JavaScript](./social/Header.png)
 
 
 ## Contents
